@@ -21,3 +21,6 @@ echo %RESULT%
 pause > nul
 
 GOTO start
+
+
+REM CREATED BY: Enriquop/Thedoc
